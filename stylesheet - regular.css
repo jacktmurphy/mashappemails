@@ -2,15 +2,15 @@
 
 @font-face {
 font-family: 'GT America';
-  font-style: 400;
-  font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
   src: url(https://raw.githubusercontent.com/jacktmurphy/mashappemails/main/gt-america-regular-webfont.woff2) format('woff2');
 }
 
 @font-face {
 font-family: 'GT America';
-  font-style: 700;
-  font-weight: normal;
+  font-style: normal;
+  font-weight: 700;
   src: url(https://raw.githubusercontent.com/jacktmurphy/mashappemails/main/gt-america-medium-webfont.woff2) format('woff2');
 }
 
