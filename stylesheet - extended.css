@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'gt_americaextended';
-    src: url('gt-america-extended-bold-webfont.woff2') format('woff2'),
-         url('gt-america-extended-bold-webfont.woff') format('woff');
+    src: url('https://github.com/jacktmurphy/mashappemails/blob/main/gt-america-extended-bold-webfont.woff2') format('woff2'),
+         url('https://github.com/jacktmurphy/mashappemails/blob/main/gt-america-extended-bold-webfont.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 
