@@ -3,14 +3,13 @@
 @font-face {
 font-family: 'GT America Extended';
   font-style: normal;
-  font-weight: bold;
-  src: url(https://raw.githubusercontent.com/jacktmurphy/mashappemails/main/gt-america-extended-bold-webfont.woff2) format('woff2');
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/jacktmurphy/mashappemails/main/gt-america-extended-regular-webfont.woff2) format('woff2');
 }
-
 
 @font-face {
 font-family: 'GT America Extended';
   font-style: normal;
-  font-weight: normal;
-  src: url(https://raw.githubusercontent.com/jacktmurphy/mashappemails/main/gt-america-extended-regular-webfont.woff2) format('woff2');
+  font-weight: 700;
+  src: url(https://raw.githubusercontent.com/jacktmurphy/mashappemails/main/gt-america-extended-bold-webfont.woff2) format('woff2');
 }
